@@ -177,4 +177,18 @@ html, body, #root {
     font-weight: bold;
     color: #ffffff;
   }
-  
+  .courses-page {
+    background-color: #f0f0f0; /* Fondo específico para la pantalla de cursos */
+    padding: 20px;
+}
+
+.courses-page h1 {
+    color: #007bff; /* Azul */
+}
+
+.courses-page .course {
+    background-color: #ffffff;
+    border: 2px solid #007bff;
+    padding: 10px;
+    margin: 10px;
+}
