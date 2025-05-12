@@ -68,3 +68,6 @@
 .sidebar.closed ~ .main-content {
   margin-left: 0;
 }
+html {
+  scroll-behavior: smooth;
+}

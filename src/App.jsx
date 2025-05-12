@@ -8,6 +8,7 @@ import { ImageSlider } from './components/imageSlider';
 import { FaBullseye, FaEye, FaScroll } from "react-icons/fa";
 import { Contador } from './components/contador';
 import { FaUserGraduate, FaChalkboardTeacher, FaSchool } from "react-icons/fa";
+import { CalendarioMUI } from './components/calendario';
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -64,6 +65,7 @@ function App() {
           <Contador final={50} texto="Profesores" icono={<FaChalkboardTeacher />} />
           <Contador final={20} texto="Clases" icono={<FaSchool />} />
         </section>
+        <CalendarioMUI/>
       </main>
     </div>
   );
