@@ -170,27 +170,34 @@ html, body, #root {
     color: #ffffff;
     margin: 0;
   }
-  
-  .contador p {
+   .contador p {
     margin: 8px 0 0;
     font-size: 1.1rem;
     font-weight: bold;
     color: #ffffff;
   }
-   .cursos-page {
-    background-color: #ba0e0e; /* Color de fondo para Cursos */
-    color: #e21313; /* Color del texto */
+  .cursos-page {
+    background-color:  #191970; /* Color de fondo para Cursos */
+    color: #ffffff; /* Color del texto */
 }
 
 .cursos-page main {
-    background-color: rgb(204, 45, 45);
-    box-shadow: 0px 4px 8px rgba( 0.1);
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 10px;
 }
 
 .cursos-page ul li {
-    background-color: #eb0909;
+    background-color: #191970;
     padding: 10px;
     border-radius: 5px;
+}
+
+.cursos-page h1, .cursos-page h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cursos-page p {
+    font-family: 'Times New Roman', serif;
 }
