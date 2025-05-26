@@ -6,6 +6,7 @@ const images = [
     '/images/itachi.jpg',
     '/images/pain.jpg',
     '/images/s.jpg',
+    '/images/escuela.jpg'
 ];
 
 export function ImageSlider() {
