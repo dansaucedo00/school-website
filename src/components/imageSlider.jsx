@@ -3,9 +3,10 @@ import '../styles/imagesSlider.css';
 
 
 const images = [
-    '/images/itachi.jpg',
-    '/images/pain.jpg',
-    '/images/s.jpg',
+
+    '/images/aula.jpg',
+    '/images/escuela.jpg',
+    '/images/escuelapy.jpg',
 ];
 
 export function ImageSlider() {

@@ -1,0 +1,15 @@
+.cursos-page {
+    padding: 2rem;
+    background-color: #f1f1f1;
+  }
+  
+  .curso-card {
+    background-color: #f99c40;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h2 {
+    color: #f99c40;
+  }
