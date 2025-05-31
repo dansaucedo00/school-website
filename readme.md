@@ -37,7 +37,7 @@ Este es el sitio web oficial de la **Escuela Básica N° 1529 Santo Domingo Savi
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/school-website.git
+git clone https://github.com/dansaucedo00/school-website.git
 
 Entrar al directorio del proyecto
 
